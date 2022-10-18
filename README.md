@@ -1,3 +1,15 @@
+# Reminder React Project
+
+## Animation of the Website
+
+![image](./tourplaces.gif)
+
+## Visulation of the Website
+
+![image](./tourplaces2.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
