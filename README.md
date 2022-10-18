@@ -2,11 +2,11 @@
 
 ## Animation of the Website
 
-![image](./tourplaces.gif)
+![image](./reminder.gif)
 
 ## Visulation of the Website
 
-![image](./tourplaces2.jpg)
+![image](./img.jpg)
 
 
 
